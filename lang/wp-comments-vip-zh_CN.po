@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Comments VIP\n"
+"POT-Creation-Date: 2014-03-10 18:56+0800\n"
+"PO-Revision-Date: 2014-03-10 18:56+0800\n"
+"Last-Translator: Arefly <eflyjason@gmail.com>\n"
+"Language-Team: Arefly <eflyjason@gmail.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options.php:21 options.php:58
+msgid "WP Comments Vip Options Page"
+msgstr "WP Comments Vip 设置页面"
+
+#: options.php:21
+msgid "WP Comments Vip"
+msgstr "WP Comments Vip"
+
+#: options.php:45
+msgid "Number Only"
+msgstr "只能输入数字"
+
+#: options.php:61
+msgid "General Options"
+msgstr "一般设置"
+
+#: options.php:64
+msgid "Each VIP Level's Comments Numbers: "
+msgstr "每一级VIP所评论的数量："
+
+#: options.php:68
+msgid "VIP Level"
+msgstr "VIP登记"
+
+#: options.php:74
+msgid "From"
+msgstr "从"
+
+#: options.php:81
+msgid "Display Admin in VIP Level?"
+msgstr "显示管理员为VIP？"
+
+#: options.php:83
+msgid "Display"
+msgstr "显示"
+
+#: options.php:83
+msgid "Hide"
+msgstr "隐藏"
+
+#: wp-comments-vip.php:48
+msgid "Settings"
+msgstr "设置"
+
+#~ msgid "Display Admin Tag?"
+#~ msgstr "显示「管理员」标签？"
+
+#~ msgid "Blog Admin"
+#~ msgstr "管理员"
